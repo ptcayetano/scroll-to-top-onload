@@ -1,2 +1,2 @@
-# scroll-to-top
+# scroll-to-top-onload
 A simple scroll to top ReactJS component
