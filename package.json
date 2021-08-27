@@ -1,6 +1,6 @@
 {
   "name": "scroll-to-top-onload",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Simple ReactJS component that will scroll to top upon load",
   "author": "ptcayetano",
   "license": "MIT",
