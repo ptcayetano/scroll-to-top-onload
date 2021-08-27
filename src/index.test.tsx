@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { ScrollToTopOnLoad } from '.'
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(ScrollToTopOnLoad).toBeTruthy()
   })
 })

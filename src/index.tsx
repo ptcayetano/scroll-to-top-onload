@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { useHistory, withRouter } from 'react-router-dom'
 
-export const ScrollToTop: React.FunctionComponent = () => {
+export const ScrollToTopOnLoad: React.FunctionComponent = () => {
   const history = useHistory()
 
   useEffect(() => {
@@ -17,4 +17,4 @@ export const ScrollToTop: React.FunctionComponent = () => {
   return null
 }
 
-export default withRouter(ScrollToTop)
+export default withRouter(ScrollToTopOnLoad)
